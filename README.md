@@ -1,4 +1,4 @@
-# flutter_snapchat_clone
+# Snapchat-Clone
 
 A new Flutter application.
 <img width="435" alt="Screenshot 2021-02-24 at 10 32 37 PM" src="https://user-images.githubusercontent.com/72858063/109037780-1e26fe80-76f1-11eb-8923-81535ad7c9c9.png">
